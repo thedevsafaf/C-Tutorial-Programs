@@ -14,7 +14,7 @@ SIMPLE C PROBLEMS
 5. area_triangle.c - to find the area of triangle.
 6. abbreviated_name.c - to find the abbreviated name from full name.
 7. simple_interest.c - to find the simple interest and total amount.
-8. Gross Salary of an Employee
+8. gross_salary.c -  to find the gross salary of an employee.
 9. Percentage of 5 Subjects
 10. Converting Temperature Celsius into Fahrenheit
 11. The Display Size of the Different Data Type
