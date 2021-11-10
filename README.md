@@ -20,8 +20,7 @@ SIMPLE C PROBLEMS
 11. datatype_sizes.c - to find the sizes of different datatypes in C.
 12. simple_factorial.c - to find the factorial of a given no.
 13. first_3_n_powers.c - to find the first,second,third powers of n (n , n*n, n*n*n)
-14. Area of a Circle
-15. LCM of Two Numbers
-16. GCD of Two Numbers
+14. lcm.c - to find the lcm of two numbers
+15. gcd.c  to find the gcd of two numbers
 
 
