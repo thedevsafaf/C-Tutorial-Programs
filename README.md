@@ -15,7 +15,7 @@ SIMPLE C PROBLEMS
 6.  abbreviated_name.c - to find the abbreviated name from full name.
 7.  simple_interest.c - to find the simple interest and total amount.
 8.  gross_salary.c -  to find the gross salary of an employee.
-9.  avg_percentage_5_subs.c - to find the average and percentage of 5 subjects.
+9.  avg_percent_5_sub.c - to find the average and percentage of 5 subjects.
 10. temp_conversion.c - to convert the degree in celsius to degree in fahrenheit.
 11. The Display Size of the Different Data Type
 12. Factorial of a Given Number
