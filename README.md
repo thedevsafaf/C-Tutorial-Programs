@@ -19,7 +19,7 @@ SIMPLE C PROBLEMS
 10. temp_conversion.c - to convert the degree in celsius to degree in fahrenheit.
 11. datatype_sizes.c - to find the sizes of different datatypes in C.
 12. simple_factorial.c - to find the factorial of a given no.
-13. Read Integer (N) and Print the First Three Powers (N^1, N^2, N^3)
+13. first_3_n_powers.c - to find the first,second,third powers of n (n , n*n, n*n*n)
 14. Area of a Circle
 15. LCM of Two Numbers
 16. GCD of Two Numbers
