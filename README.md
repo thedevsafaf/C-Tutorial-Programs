@@ -18,7 +18,7 @@ SIMPLE C PROBLEMS
 9.  avg_percent_5_sub.c - to find the average and percentage of 5 subjects.
 10. temp_conversion.c - to convert the degree in celsius to degree in fahrenheit.
 11. datatype_sizes.c - to find the sizes of different datatypes in C.
-12. Factorial of a Given Number
+12. simple_factorial.c - to find the factorial of a given no.
 13. Read Integer (N) and Print the First Three Powers (N^1, N^2, N^3)
 14. Area of a Circle
 15. LCM of Two Numbers
