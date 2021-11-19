@@ -24,6 +24,6 @@ long int - 4 bytes
 
 long double - 16 bytes
 
-just check other variable sizes.
+just check other variable sizes also
 
 */
