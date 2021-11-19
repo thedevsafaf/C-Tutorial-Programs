@@ -25,3 +25,11 @@ int main(){
     return 0;
 
 }
+
+/*
+
+The format specifier is used during input and output. It is a way to tell the compiler what type of data is in a variable
+
+during taking input using scanf() or printing using printf(). Some examples are %c, %d, %f, etc.
+
+*/
