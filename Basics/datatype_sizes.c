@@ -10,3 +10,20 @@ int main()
   return 0;
 
 } 
+
+
+/*
+
+When sizeof() is used with the data types such as int, float, char… etc
+
+it simply returns the amount of memory is allocated to that data types.
+
+short int - 2 bytes
+
+long int - 4 bytes
+
+long double - 16 bytes
+
+just check other variable sizes.
+
+*/
